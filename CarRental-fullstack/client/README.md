@@ -11,73 +11,35 @@ Add your deployed project link here later.
 
 Example:
 
-https://your-autohop-app-link.com
+Need to be Deployed(Will be updated after deploy)
 
 📌 Features
-👤 User Features
 
+👤 #User Features
 User authentication (Login / Signup)
-
 Browse available cars
-
 Search cars
-
 Rent cars
-
 View personal bookings
-
 Responsive UI
 
-🛠 Admin Features
-
+🛠 #Admin Features
 Add new cars
-
 Manage car listings
-
 Update car information
-
 Remove cars from inventory
 
-🏗 Tech Stack
-Frontend
-
+🏗 #Tech Stack
+##Frontend :
 React.js
-
 Tailwind CSS
-
 Framer Motion
-
 Axios
 
-Backend
-
+##Backend
 Node.js
-
 Express.js
+Database:MongoDD,Mongoose
 
-Database
-
-MongoDB
-
-Mongoose
-
-Authentication
-
+##Authentication
 JWT (JSON Web Tokens)
-
-📂 Project Structure
-
-AutoHop
-
-client
-    src
-        components
-        pages
-        assets
-        App.jsx
-
-server
-    controllers
-    models
-    routes
-    server.js
