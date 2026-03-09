@@ -1,12 +1,83 @@
-# React + Vite
+🚗 AutoHop – Car Rental Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AutoHop is a full-stack car rental web application where users can browse available cars and rent them online.
+The platform also includes an admin dashboard where administrators can manage car listings.
 
-Currently, two official plugins are available:
+This project is built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 Live Preview
 
-## Expanding the ESLint configuration
+Add your deployed project link here later.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Example:
+
+https://your-autohop-app-link.com
+
+📌 Features
+👤 User Features
+
+User authentication (Login / Signup)
+
+Browse available cars
+
+Search cars
+
+Rent cars
+
+View personal bookings
+
+Responsive UI
+
+🛠 Admin Features
+
+Add new cars
+
+Manage car listings
+
+Update car information
+
+Remove cars from inventory
+
+🏗 Tech Stack
+Frontend
+
+React.js
+
+Tailwind CSS
+
+Framer Motion
+
+Axios
+
+Backend
+
+Node.js
+
+Express.js
+
+Database
+
+MongoDB
+
+Mongoose
+
+Authentication
+
+JWT (JSON Web Tokens)
+
+📂 Project Structure
+
+AutoHop
+
+client
+    src
+        components
+        pages
+        assets
+        App.jsx
+
+server
+    controllers
+    models
+    routes
+    server.js
