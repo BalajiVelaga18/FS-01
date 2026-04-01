@@ -5,10 +5,6 @@ The platform also includes an admin dashboard where administrators can manage ca
 
 This project is built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
-Example:
-
-Need to be Deployed(Will be updated after deploy)
-
 📌 Features
 
 👤 #User Features
